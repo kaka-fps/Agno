@@ -42,4 +42,16 @@ Depois dessa frase nos documentos eles nos ajudam com arquiteturas de agentes de
 
 __ nota de aprendizagem : fiz uma pergunta para o agente do site e deu erro 500 xD __
 
-pelo jeito ele me da um pequeno passo a passo que não posso seguir no ubuntu
+pelo jeito ele me da um pequeno passo a passo que não posso seguir no ubuntu logo tenho que fazer isso no note e ver um video 
+
+esse é u final do passo pois parece simples mas importante 
+
+# 3. Conecte-se à interface do usuário do AgentOS.
+A interface do usuário do AgentOS conecta-se diretamente do seu navegador ao seu ambiente de execução.
+Ele permite testar, monitorar e gerenciar seus agentes em tempo real.
+Acesse os.agno.com e faça login.  
+Clique em “Adicionar novo SO” na barra de navegação superior.  
+Selecione “Local” para conectar-se a um AgentOS local.  
+Insira o URL do seu endpoint (padrão: http://localhost:8000).  
+Dê a ele um nome como "SO de Desenvolvimento".  
+Clique em “Conectar” .  
